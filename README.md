@@ -1,5 +1,3 @@
 # study
+## kotlin
 ## Android
-### Developers
-#### codelab
-* [ ] DiceRoller
